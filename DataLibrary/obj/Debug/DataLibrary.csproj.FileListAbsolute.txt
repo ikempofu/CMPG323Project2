@@ -1,0 +1,9 @@
+C:\Users\27743098\Desktop\DimensionDataCollab\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\27743098\Desktop\DimensionDataCollab\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\27743098\Desktop\DimensionDataCollab\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\27743098\Desktop\DimensionDataCollab\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\27743098\Desktop\DimensionDataCollab\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\27743098\Desktop\DimensionDataCollab\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\27743098\Desktop\DimensionDataCollab\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\27743098\Desktop\DimensionDataCollab\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\27743098\Desktop\DimensionDataCollab\DataLibrary\obj\Debug\DataLibrary.pdb
